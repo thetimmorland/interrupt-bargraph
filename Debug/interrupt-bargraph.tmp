@@ -1,0 +1,31 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328PB"</DEVICE>
+ <WORKING_DIR>C:\Users\Tim\Documents\Atmel Studio\7.0\interrupt-bargraph\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Tim\Documents\Atmel Studio\7.0\interrupt-bargraph\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc\m328PBdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Tim\Documents\Atmel Studio\7.0\interrupt-bargraph\Debug\interrupt-bargraph.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>interrupt-bargraph.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>interrupt-bargraph.map</FILE>
+  <FILE>interrupt-bargraph.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <vectTable><FILE>C:\Users\Tim\Documents\Atmel Studio\7.0\interrupt-bargraph\main.asm</FILE><LINE>10</LINE></vectTable>
+  <reset><FILE>C:\Users\Tim\Documents\Atmel Studio\7.0\interrupt-bargraph\main.asm</FILE><LINE>32</LINE></reset>
+  <shiftLeft><FILE>C:\Users\Tim\Documents\Atmel Studio\7.0\interrupt-bargraph\main.asm</FILE><LINE>20</LINE></shiftLeft>
+  <shiftRight><FILE>C:\Users\Tim\Documents\Atmel Studio\7.0\interrupt-bargraph\main.asm</FILE><LINE>26</LINE></shiftRight>
+  <write><FILE>C:\Users\Tim\Documents\Atmel Studio\7.0\interrupt-bargraph\main.asm</FILE><LINE>59</LINE></write>
+ </LABELS>
+</ASSEMBLER_INFO>
